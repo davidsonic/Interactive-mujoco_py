@@ -4,7 +4,7 @@
 Newly added features:
 
 1. Support human interaction with the object using glfw (Refer simulate.cpp in C++ mujoco)
-2. Add rendering codes
+2. Rewrite rendering codes in Cython
 
 ## Synopsis
 
