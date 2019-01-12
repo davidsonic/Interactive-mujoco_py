@@ -3,8 +3,8 @@
 [MuJoCo](http://mujoco.org/) is a physics engine for detailed, efficient rigid body simulations with contacts. `mujoco-py` allows using MuJoCo from Python 3.
 Newly added features:
 
-1. Support human interaction with the object using glfw (Refer simulate.cpp in C++ mujoco)
-2. Rewrite rendering codes in Cython
+1. **Support human interaction with the object using glfw (Refer simulate.cpp in C++ mujoco)**
+2. **Rewrite rendering codes in Cython**
 
 ## Synopsis
 
