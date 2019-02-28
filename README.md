@@ -4,6 +4,6 @@ This project is based on [mujoco-py](https://github.com/openai/mujoco-py) mainta
 features:
 
 1. **Add Cython rendring pipeline for force perturbation by mouse (similar to simulate.cpp)**
-2. **Allow for force discretization
-3. **Allow for force visualization
-4. **Compatible with mjpro150 and base on the latest mujoco_py
+2. **Allow for force discretization**
+3. **Allow for force visualization**
+4. **Compatible with mjpro150 and base on the latest mujoco_py**
